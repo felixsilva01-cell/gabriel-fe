@@ -1,0 +1,14 @@
+let mensagem = "Olá, mundo!";
+let nome = "João";
+let sobrenome = "Silva";
+let nomeCompleto = nome + " " + sobrenome;
+
+console.log(nomeCompleto); // Saída: "João Silva"
+// Declaração das variáveis
+let idade = 30;
+
+// Concatenação de string com valor numérico
+let mensagem = "A idade é: " + idade;
+
+// Resultado: "A idade é: 30"
+console.log(mensagem);
